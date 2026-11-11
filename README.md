@@ -59,4 +59,5 @@ Eslogan: ¡Cuidá tus datos, protegé tu identidad!
 Cinco recomendaciones: Usar contraseñas seguras, no compartir datos personales, evitar enlaces sospechosos, actualizar los dispositivos y activar la verificación en dos pasos.
 Advertencia: Cuidado con el phishing, puede robar tus contraseñas mediante mensajes y páginas falsas.
 
-Reflexión final: Es importante cuidar nuestra información y utilizar internet de manera responsable para evitar problemas.
+Reflexión final: Es importante cuidar nuestra información y utilizar internet de manera responsable para evitar problemas..
+
